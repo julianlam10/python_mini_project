@@ -10,4 +10,4 @@ Then, it will prompt the user for the coefficients of each of the terms (and a c
 
 For example, a 3rd degree polynomial will prompt the user for the coefficient of the 3rd degree term, then the 2nd, then the 1st, then a constant.
 
-It then computes and outputs the derivative of that polynomial in a single line with plus and/or minus signs, excluding any 0 terms and unnecessary "to the 1 power."
+It then computes and outputs the derivative of that polynomial in a single line with plus and/or minus signs, excluding any 0 terms and unnecessary "to the 1 power" or coefficients of 1.
